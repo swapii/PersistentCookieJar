@@ -1,6 +1,1 @@
-<manifest
-    package="com.franmontiel.persistentcookiejar">
-
-    <application/>
-
-</manifest>
+<manifest package="com.franmontiel.persistentcookiejar" />
